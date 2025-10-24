@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RetroManiaMan
-- 💼 I have created a company called Syntex Technologies!
+- 💼 I have created a company called System Technologies, also known as Syntex or Syntex Technologies!
 - 📈 Making projects on Syntex people!
 - 👀 I’m interested in race cars, Minecraft, cars, gadgets, all that!
 - 🌱 I’m currently learning engineering
