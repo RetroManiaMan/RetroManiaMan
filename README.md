@@ -6,7 +6,7 @@
   
 - 👀 I’m interested in race cars, Minecraft, cars, gadgets, motorsports, all that!
   
-- 🌱 I’m currently learning engineering (loving it!)
+- 🌱 I’m currently learning engineering (loving it!) and working on a project that is about to take 2 years in the making, LogiQ AI! My AI assistant that I'm creating with the help of Base44! This project has had SOO MANY errors and SO MANY things to add to it and soon it will be done. My master piece! 🎨✨
   
 - 💞️ I’m looking forword to collaborating with different developers out there to create amazing and beautiful projects that will be know across the world! Afterall the moto of my company Syntex is "Incorperative developing, developers." If that makes sense to anyone!
   
