@@ -19,7 +19,7 @@
 - ⚡ Fun fact:  Australia is wider than the Moon,
 koalas have fingerprints, octopuses have three hearts,
 and cherophobia is the fear of fun. Dolphins give each other names,
-elephants can't jump, and honey never spoils!
+elephants can't jump, and honey never spoils! Some of my projects might have the name Raphael in them. That's just my real name (technically my middle name but whatever).
 
 <!---
 RetroManiaMan/RetroManiaMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
