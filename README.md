@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @RetroManiaMan
   
-- 💼 I have created a company called System Technologies, also known as Syntex or Syntex Technologies!
+- 💼 I have created a company called Systematic Technologies Incorporative Inovational Studios, also known as Systematic!
   
-- 📈 Making projects on Syntex people!
+- 📈 Making projects on Syntex (a brand under Systematic), people!
   
 - 👀 I’m interested in race cars, Minecraft, cars, gadgets, motorsports, all that!
   
-- 🌱 I’m currently learning engineering (loving it!) and working on a project that is about to take 2 years in the making, LogiQ AI! The AI assistant that I'm creating with the help of Base44! This project has had SOO MANY errors and SO MANY things to add to it and soon it will be done. My master piece! 🎨✨
+- 🌱 I’m currently learning engineering (loving it!) and working on a project that is about to take 2 years in the making, LogiQ AI! The AI assistant that I'm creating with the help of Base44! This project has had SOO MANY errors and SO MANY things to add to it, and soon it will be done. My master piece! 🎨✨
   
-- 💞️ I’m looking forword to collaborating with different developers out there to create amazing and beautiful projects that will be know across the world! Afterall the moto of my company Syntex is "Incorperative developing, developers." If that makes sense to anyone!
+- 💞️ I’m looking forward to collaborating with different developers out there to create amazing and beautiful projects that will be known across the world! Afterall the motto of my company, Syntex, is "Incorparative developing, developers." If that makes sense to anyone!
   
 - 🚫🧑🏾‍💻 I'm also a no-code developer. While there may not be many no-coders out there, I'm committed to supporting others in the community and continuing my work as a no-code developer, regardless of the challenges that may come.
   
