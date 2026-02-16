@@ -12,8 +12,6 @@
   
 - 🚫🧑🏾‍💻 I'm also a no-code developer. While there may not be many no-coders out there, I'm committed to supporting others in the community and continuing my work as a no-code developer, regardless of the challenges that may come.
   
-- 📫 How to reach me/just email nwachukwuchimdi10@gmail.com!
-  
 - 😄 Pronouns: He/Him
   
 - ⚡ Fun fact:  Australia is wider than the Moon,
