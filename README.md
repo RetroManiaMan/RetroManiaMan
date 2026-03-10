@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RetroManiaMan
   
-- 💼 I have created a company called Systematic Technologies Incorporative Inovational Studios, also known as Systematic!
+- 💼 I am creating a company called Systematic Technologies Incorporated Innovational Studios, also known as S.T.I.I.S!
   
 - 📈 Making projects on Syntex (a brand under Systematic), people!
   
