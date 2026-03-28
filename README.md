@@ -16,7 +16,7 @@
   
 - ⚡ Fun fact:  Australia is wider than the Moon, Koalas have fingerprints, octopuses have three hearts, cherophobia is the fear of fun, dolphins give each other names, elephants can't jump, and honey never spoils!
 
-- 😎 Some of my projects might have the name Raphael in them. That's just my middle name. My first name is Chimdindu
+- 😎 Some of my projects might have the name Raphael in them. That's just my middle name.
 
 <!---
 RetroManiaMan/RetroManiaMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
