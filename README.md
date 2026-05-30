@@ -6,7 +6,7 @@
   
 - 👀 I’m interested in race cars, Minecraft, cars, gadgets, motorsports, all that!
   
-- 🌱 I’m currently learning engineering (loving it!) and working on a project that is about to take 1 year in the making, ObyX AI! The AI assistant that I'm creating with the help of Base44! This project has had SOO MANY errors and SO MANY things to add to it, and soon it will be done. My master piece! 🎨✨
+- 🌱 I’m currently learning engineering (loving it!) and working on a project that is about to take 1 year in the making, ObyX AI! The AI assistant that I'm creating with the help of Base44! This project has had SOO MANY errors and SO MANY things to add to it, and soon it will be done. My masterpiece! 🎨✨
   
 - 💞️ I’m looking forward to collaborating with different developers out there to create amazing and beautiful projects that will be known across the world! After all, the motto of my company, S.T.I.I.S., is "Incorporative developing, developers." If that makes sense to anyone!
   
@@ -17,6 +17,9 @@
 - ⚡ Fun fact:  Australia is wider than the Moon, Koalas have fingerprints, octopuses have three hearts, cherophobia is the fear of fun, dolphins give each other names, elephants can't jump, and honey never spoils!
 
 - 😎 Some of my projects might have the name Raphael in them. That's just my middle name.
+
+- 😜 If you ever want to reach out to me to collaborate or iterate on any projects, here's my Gmail! nwachukwuchimdi10@gmail.com
+- ✅ Hope to make GREAT projects and websites together! With the power of AI!!!
 
 <!---
 RetroManiaMan/RetroManiaMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
