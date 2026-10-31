@@ -21,6 +21,8 @@
 - 😜 If you ever want to reach out to me to collaborate or iterate on any projects, here's my Gmail! nwachukwuchimdi10@gmail.com
 - ✅ Hope to make GREAT projects and websites together! With the power of AI!!!
 
+<img width="723" height="277" alt="Screenshot 2026-10-30 at 8 54 28 PM" src="https://github.com/user-attachments/assets/33d72e5b-efce-4863-9ea0-37a5363187f4" />
+
 <!---
 RetroManiaMan/RetroManiaMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to view your changes.
